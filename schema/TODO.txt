@@ -1,0 +1,29 @@
+mysterious suitcase
+money box
+lottery 
+searchable dumpsters 
+drugs
+combine footsteps 
+combine + mask pain sounds
+increase player attribs
+vort healing weapon model
+vort broom model
+view combine data
+extra salary for classes
+
+FINISHED:
+make stunstick and equippable item
+factions
+forcefield & lock entity 
+combine doors
+outfits
+vortigaunts
+vortessence
+lockpick
+battering ram
+emp tool
+  open combine door
+  disable forcefield
+prevent vorts from equipping armor/weapons
+chloroform
+poison syringe

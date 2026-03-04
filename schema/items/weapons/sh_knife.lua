@@ -1,0 +1,9 @@
+ITEM.name = "Knife"
+ITEM.description = "A nasty-looking knife."
+ITEM.model = "models/weapons/w_knife_ct.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.class = "weapon_knife"
+ITEM.weaponCategory = "melee"
+ITEM.flag = "w"
+ITEM.price = 40
